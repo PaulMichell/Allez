@@ -1,4 +1,4 @@
 Allez
 =====
 
-Fencing Score-Box Software
+Software for fencing score-box system 
